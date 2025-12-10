@@ -101,6 +101,12 @@ Next.js, Typescript
 
 ## 프로젝트 결과 화면
 
+### 시연 영상
+
+
+https://github.com/user-attachments/assets/542fea96-3275-4da7-bb2c-bc7bd70b82ed
+
+
 ### 홈
 
 ### 1) 지금 뜨는 이슈
